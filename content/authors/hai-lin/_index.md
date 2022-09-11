@@ -2,7 +2,8 @@
 title: Hai Lin
 role: Professfor
 avatar_filename: lh.jpg
-bio: ""
+bio: His research interests include computer graphics, scientific visualization,
+  volume rendering, virtual reality and  graphical electromagnetic computing.
 social:
   - display:
       header: false
