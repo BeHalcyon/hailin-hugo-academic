@@ -1,8 +1,8 @@
 ---
-widget: aboutasdfasd
+widget: about
 active: true
 author: admin
-widget_id: sdfgasdfasdfasdfasdf
+widget_id: about
 headless: true
 weight: 20
 title: Biography
